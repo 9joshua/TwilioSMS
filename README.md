@@ -1,5 +1,4 @@
 # TwilioSMS
-<img src="https://user-images.githubusercontent.com/20234985/230868984-b7229062-5f7c-4dda-b2cd-734a1502067d.png" width="250px">
 
 Matomo Plugin which adds Twilio as a provider for Mobile Messaging (SMS Reports)
 
