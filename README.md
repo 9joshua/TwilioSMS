@@ -7,6 +7,8 @@ First, sign up for a Twilio account at https://www.twilio.com.
 Once you have signed up, you can find your Account SID and Auth Token on your Twilio dashboard.
 Enter your Twilio Account SID and Auth Token on this page.
 
+>Important: Twilio does not allow an SMS number to send messages to itself. Your sending number must be different from your number used to receive SMS Reports.
+
 ### About Twilio
 Twilio is a cloud communications platform that provides a variety of APIs and services to help businesses and developers build and scale their communication systems. Twilio has been recognized as one of the fastest-growing cloud companies and has received numerous industry awards.
 You can find more information about Twilio pricing at https://www.twilio.com/sms/pricing.
