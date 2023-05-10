@@ -24,6 +24,6 @@
 	    "rss": ""
   },
   "homepage": "https://github.com/9joshua/TwilioSMS",
-  "license": "",
-  "keywords": []
+  "license": "MIT",
+  "keywords": [Twilio, SMS, reports]
 }
