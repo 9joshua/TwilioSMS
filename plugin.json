@@ -1,0 +1,29 @@
+{
+  "name": "TwilioSMS",
+  "description": "Adds the ability to use Twilio as your SMS provider for Mobile Messaging (SMS Reports)",
+  "version": "0.1.0",
+  "theme": false,
+  "require": {
+    "matomo": ">=5.0.0-b1,<6.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "9joshua",
+      "email": "support@base.nz",
+      "homepage": "https://base.nz"
+    }
+  ],
+  "support": {
+	    "email": "support@base.nz",
+	    "issues": "https://github.com/9joshua/TwilioSMS/issues",
+	    "forum": "https://github.com/9joshua/TwilioSMS/discussions/1",
+	    "irc": "",
+	    "wiki": "https://github.com/9joshua/TwilioSMS#readme",
+	    "source": "",
+	    "docs": "",
+	    "rss": ""
+  },
+  "homepage": "https://github.com/9joshua/TwilioSMS",
+  "license": "",
+  "keywords": []
+}

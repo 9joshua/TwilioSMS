@@ -1,0 +1,8 @@
+{
+    "TwilioSMS": {
+        "AccountSID": "Account SID",
+        "AuthToken": "Auth Token",
+        "SendingNumber": "Registered Twilio SMS \"From\" Number (ex. +13334445555)",
+        "AvailableBalance": "Available balance: %1$s"
+    }
+}
