@@ -1,7 +1,7 @@
 {
   "name": "TwilioSMS",
   "description": "Adds the ability to use Twilio as your SMS provider for Mobile Messaging (SMS Reports)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "theme": false,
   "require": {
     "matomo": ">=4.0.0-b1,<6.0.0-b1"
